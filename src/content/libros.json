@@ -1,0 +1,34 @@
+[
+  {
+    "titulo": "Cien Años de Soledad",
+    "autor": "Gabriel García Márquez",
+    "precio": 249,
+    "portada": "https://m.media-amazon.com/images/I/71YoFJSz3LL._SY466_.jpg",
+    "descripcion": "La historia de la familia Buendía en el mítico pueblo de Macondo, una saga de siete generaciones marcada por el amor, el poder y la soledad.",
+    "slug": "cien-anos-de-soledad"
+  },
+  {
+    "titulo": "1984",
+    "autor": "George Orwell",
+    "precio": 199,
+    "portada": "https://m.media-amazon.com/images/I/41lfdHNbwLL._SY445_SX342_.jpg",
+    "descripcion": "Una distopía sobre un régimen totalitario que controla todos los aspectos de la vida, incluso los pensamientos, a través del Gran Hermano.",
+    "slug": "1984"
+  },
+  {
+    "titulo": "El Principito",
+    "autor": "Antoine de Saint-Exupéry",
+    "precio": 179,
+    "portada": "https://m.media-amazon.com/images/I/81pFWUo4tJL._SY466_.jpg",
+    "descripcion": "Un clásico que combina filosofía y fantasía en la historia de un pequeño príncipe que viaja por planetas y aprende sobre la vida, el amor y la amistad.",
+    "slug": "el-principito"
+  },
+  {
+    "titulo": "Rayuela",
+    "autor": "Julio Cortázar",
+    "precio": 270,
+    "portada": "https://m.media-amazon.com/images/I/313ZmAcZz8L.jpg",
+    "descripcion": "Una novela revolucionaria en su estructura que invita a ser leída de múltiples formas, explorando el amor, la existencia y el absurdo.",
+    "slug": "rayuela"
+  }
+]

@@ -1,0 +1,58 @@
+[
+    {
+        "titulo": "Harry Potter y la Piedra Filosofal",
+        "autor": "J.K. Rowling",
+        "precio": 299,
+        "portada": "https://m.media-amazon.com/images/I/81YOuOGFCJL._SY466_.jpg",
+        "descripcion": "La historia de un joven mago y sus aventuras en la escuela de magia Hogwarts.",
+        "slug": "harry-potter-y-la-piedra-filosofal"
+    },
+    {
+        "titulo": "Como Agua para Chocolate",
+        "autor": "Laura Esquivel",
+        "precio": 199,
+        "portada": "https://imagessl8.casadellibro.com/a/l/t0/88/9788466329088.jpg",
+        "descripcion": "Una novela que combina recetas de cocina con la historia de amor entre Tita y Pedro.",
+        "slug": "como-agua-para-chocolate"
+    },
+    {
+        "titulo": "El Amor en los Tiempos del Cólera",
+        "autor": "Gabriel García Márquez",
+        "precio": 249,
+        "portada": "https://m.media-amazon.com/images/I/91IV7tN9MiL._SY466_.jpg",
+        "descripcion": "Una historia de amor que abarca más de medio siglo, explorando la pasión y la espera.",
+        "slug": "el-amor-en-los-tiempos-del-colera"
+    },
+    {
+        "titulo": "La Casa de los Espíritus",
+        "autor": "Isabel Allende",
+        "precio": 220,
+        "portada": "https://m.media-amazon.com/images/I/71AsDoqXZBL._SY466_.jpg",
+        "descripcion": "Una saga familiar que mezcla realismo mágico con la historia de Chile.",
+        "slug": "la-casa-de-los-espiritus"
+    },
+    {
+        "titulo": "El Alquimista",
+        "autor": "Paulo Coelho",
+        "precio": 199,
+        "portada": "https://m.media-amazon.com/images/I/71+2-t7M35L._SY466_.jpg",
+        "descripcion": "La búsqueda de un joven pastor por su leyenda personal y el significado de la vida.",
+        "slug": "el-alquimista"
+    },
+    {
+        "titulo": "El Gran Gatsby",
+        "autor": "F. Scott Fitzgerald",
+        "precio": 180,
+        "portada": "https://m.media-amazon.com/images/I/61hAvhdPV2S._SY425_.jpg",
+        "descripcion": "Una crítica a la sociedad americana de los años 20 a través de la vida de Jay Gatsby.",
+        "slug": "el-gran-gatsby"
+    },
+    {
+        "titulo": "Orgullo y Prejuicio",
+        "autor": "Jane Austen",
+        "precio": 150,
+        "portada": "https://m.media-amazon.com/images/I/51mhH-N3jbL._SY445_SX342_.jpg",
+        "descripcion": "Una novela clásica que explora las relaciones sociales y el amor en la Inglaterra del siglo XIX.",
+        "slug": "orgullo-y-prejuicio"
+    }
+]
